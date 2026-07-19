@@ -22,7 +22,7 @@ Estou sempre em busca de novos desafios e oportunidades para aprender e evoluir 
 
 ## 📚 Conhecimentos 🛠️ Tecnologias
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,vscode,git,github,postgres" />
   </a>
