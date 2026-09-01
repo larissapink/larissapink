@@ -40,7 +40,11 @@ Estou sempre em busca de novos desafios e oportunidades para aprender e evoluir 
 
 ## 📌 Projetos Públicos
 
-### 🏨 Projeto-Hotel-MariaDB
+### 🌐 Projeto Metapágina Didática HTML
+
+Projeto metalinguístico que ensina os fundamentos e a estruturação de páginas web em **HTML5** através do uso da própria linguagem.
+
+### 🏨 Projeto Hotel MariaDB
 
 Projeto desenvolvido para criação e manipulação de objetos utilizando **MySQL/MariaDB**, aplicando conceitos de banco de dados relacionais.
 
