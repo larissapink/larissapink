@@ -14,7 +14,10 @@
 
 Sou estudante de **Ciência da Computação** e apaixonada por tecnologia.
 
-Atualmente estou focada em aprofundar meus conhecimentos em **Desenvolvimento Front-End**, criando projetos práticos e aprimorando minhas habilidades em programação, versionamento de código e banco de dados.
+Graduanda em Ciência da Computação com sólida base em lógica de programação com aplicações nas linguagens de Python e C. Conhecimento em Banco de Dados (SQL), redes de computadores, cibersegurança e desenvolvimento web;
+
+Formação Técnica em Administração, agregando capacidade de organização de processos, controle de SLAs e documentação técnica.
+Certificados de cursos pela Cisco Networking Academy e AWS (Fundamentos de Nuvem);
 
 Estou sempre em busca de novos desafios e oportunidades para aprender e evoluir como profissional da área de tecnologia.
 
